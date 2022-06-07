@@ -1,0 +1,75 @@
+ .u-section-1 {
+  background-image: url("images/ed-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 740px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  margin: 346px 127px 0 auto;
+  padding: 10px 124px 10px 123px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 180px 0 60px 577px;
+}
+
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  border-style: none none solid;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 610px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 514px;
+    margin-bottom: 80px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 467px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 1009px;
+    margin-bottom: 60px;
+    margin-left: 157px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 350px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 36.88% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 220px;
+  }
+}
